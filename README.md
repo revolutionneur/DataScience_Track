@@ -1,2 +1,2 @@
-# DataScience_Track
+# Data_Science_Track
 DSC_DataScienceTrack
